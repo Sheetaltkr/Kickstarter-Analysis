@@ -18,7 +18,7 @@ By using *Pivot tables* from Kick-starter dataset we have presented "Launch Date
 for the created Pivot Table.The hyperlink and the image for the graphs are given below.
 
 
-#####Findings
+**Findings
 
 - May has highest number i.e. 111 of successful Kick-starter campaigns launched. February , April and August have second highest i.e. 71,71 and 72 respectively.
 
@@ -36,7 +36,7 @@ for the created Pivot Table.The hyperlink and the image for the graphs are given
 This Analysis helps one understand campaigns' performance based of **specific goals range criteria** . For **"Successful","Failed","Canceled"** campaign outcomes we are adding the counts if the specified Goal criteria is met using **COUNTIFS()** function.
 We then calculate the Total project outcome and then the percentage of each outcome over Total project outcome for all goal criteria. Next we generate the Line Graph with outcome percentages on Y axis and the Goal criteria on X axis. The hyperlink and the image for the graphs are given below.
 
-#####Findings
+**Findings
 
 - For goals lesser than $10000 we have highest percent of successful outcomes.76% being the highest success rate.
 
