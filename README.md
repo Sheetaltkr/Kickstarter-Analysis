@@ -21,7 +21,6 @@ for the created Pivot Table.The hyperlink and the image for the graphs are given
 
 ![Theater_Outcomes_vs_Launch](https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-
 **Findings**
 
 - May has highest number i.e. 111 of successful Kick-starter campaigns launched. February , April and August have second highest i.e. 71,71 and 72 respectively.
