@@ -55,10 +55,10 @@ We then calculate the Total project outcome and then the percentage of each outc
 
 ### Challenges and Difficulties Encountered
 
-- The graphs which were plotted by applying filters on the source kick-starter sheet would get distorted if the filters were removed or changed.
-- Applying Range based Goal criteria required creating new table for criteria so that it was easy to make changes to the goal criteria without modifying the code in excel.
-- Errors was encountered for division by 0 operation while calculating the % canceled outcomes. This was handled using IFERROR() function.
-
+- The graphs plotted by applying filters could get distorted if the filters were removed or changed on the source kick-starter sheet. Using a separate worksheet with dataset of the filtered data could help to avoid this issue.
+- Error was encountered for division by 0 operation while calculating the % canceled outcomes. This was handled using IFERROR() function.
+- Writing code for Outcomes Based on Goals was tedious while hard-coding criteria values. Creating new table for criteria and then referencing those cells in the code helped with this problem. This will also help for any future modifications if goal criteria changes.
+- The code for applying Range based Goal criteria along with multiple other criteria could be long. Use of correct count function COUNTIFS() instead of COUNTIF() is important for this analysis.
 
 ## Results
 
