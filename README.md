@@ -17,6 +17,7 @@ This Analysis helps one understand campaigns' performance in relation to their l
 By using *Pivot tables* from Kick-starter dataset we have presented "Launch Date Conversion" as Rows and "Outcomes" as columns with filters "Parent Category" and "Years" to show "Count of outcomes" as a metric. We then have used *Pivot Charts* to generate the Line Graph
 for the created Pivot Table.The hyperlink and the image for the graphs are given below.
 
+[https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png](https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png "Theater_Outcomes_vs_Launch")
 
 **Findings**
 
@@ -35,6 +36,10 @@ for the created Pivot Table.The hyperlink and the image for the graphs are given
 
 This Analysis helps one understand campaigns' performance based of **specific goals range criteria** . For **"Successful","Failed","Canceled"** campaign outcomes we are adding the counts if the specified Goal criteria is met using **COUNTIFS()** function.
 We then calculate the Total project outcome and then the percentage of each outcome over Total project outcome for all goal criteria. Next we generate the Line Graph with outcome percentages on Y axis and the Goal criteria on X axis. The hyperlink and the image for the graphs are given below.
+
+
+[https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png](https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png "Outcomes_vs_Goals")
+
 
 **Findings**
 
