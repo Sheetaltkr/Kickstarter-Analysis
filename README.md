@@ -19,6 +19,9 @@ for the created Pivot Table.The hyperlink and the image for the graphs are given
 
 [https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png](https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png "Theater_Outcomes_vs_Launch")
 
+![Theater_Outcomes_vs_Launch](https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+
+
 **Findings**
 
 - May has highest number i.e. 111 of successful Kick-starter campaigns launched. February , April and August have second highest i.e. 71,71 and 72 respectively.
@@ -31,7 +34,6 @@ for the created Pivot Table.The hyperlink and the image for the graphs are given
 
 
 
-
 ### Analysis of Outcomes Based on Goals
 
 This Analysis helps one understand campaigns' performance based of **specific goals range criteria** . For **"Successful","Failed","Canceled"** campaign outcomes we are adding the counts if the specified Goal criteria is met using **COUNTIFS()** function.
@@ -40,6 +42,7 @@ We then calculate the Total project outcome and then the percentage of each outc
 
 [https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png](https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png "Outcomes_vs_Goals")
 
+![Outcomes_vs_Goals](https://github.com/Sheetaltkr/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 **Findings**
 
